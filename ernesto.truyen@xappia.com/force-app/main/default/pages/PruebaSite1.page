@@ -1,0 +1,4 @@
+<apex:page >
+    Hola<br/>
+    <apex:outputlink value="https://empathetic-koala-k7ejy5-dev-ed.my.salesforce.com/sfc/p/4x000005RXtm/a/4x000000TQWS/QWIvhLh2HqhR6DiHTuEyiO_Zu8ddJM42LZWTCe6g5f8">Img</apex:outputlink>
+</apex:page>

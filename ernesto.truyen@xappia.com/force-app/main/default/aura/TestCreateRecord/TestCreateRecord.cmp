@@ -1,0 +1,7 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" >
+    <aura:attribute name="accId" type="string"/>
+    <aura:attribute name="textColor" type="string" default="black"/>
+    <aura:attribute name="currentUserName" type="string"/>
+    <aura:attribute name="recordId" type="String" />
+    <lightning:button label="Edit Record" onclick="{!c.edit}"/>
+</aura:component>
